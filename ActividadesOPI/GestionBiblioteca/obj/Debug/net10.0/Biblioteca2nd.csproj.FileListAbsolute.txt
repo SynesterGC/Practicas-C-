@@ -1,0 +1,30 @@
+C:\Users\santi\Desktop\Practicas_programacion\Personal\Biblioteca2nd\bin\Debug\net10.0\Biblioteca2nd.exe
+C:\Users\santi\Desktop\Practicas_programacion\Personal\Biblioteca2nd\bin\Debug\net10.0\Biblioteca2nd.deps.json
+C:\Users\santi\Desktop\Practicas_programacion\Personal\Biblioteca2nd\bin\Debug\net10.0\Biblioteca2nd.runtimeconfig.json
+C:\Users\santi\Desktop\Practicas_programacion\Personal\Biblioteca2nd\bin\Debug\net10.0\Biblioteca2nd.dll
+C:\Users\santi\Desktop\Practicas_programacion\Personal\Biblioteca2nd\bin\Debug\net10.0\Biblioteca2nd.pdb
+C:\Users\santi\Desktop\Practicas_programacion\Personal\Biblioteca2nd\obj\Debug\net10.0\Biblioteca2nd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\Desktop\Practicas_programacion\Personal\Biblioteca2nd\obj\Debug\net10.0\Biblioteca2nd.AssemblyInfoInputs.cache
+C:\Users\santi\Desktop\Practicas_programacion\Personal\Biblioteca2nd\obj\Debug\net10.0\Biblioteca2nd.AssemblyInfo.cs
+C:\Users\santi\Desktop\Practicas_programacion\Personal\Biblioteca2nd\obj\Debug\net10.0\Biblioteca2nd.csproj.CoreCompileInputs.cache
+C:\Users\santi\Desktop\Practicas_programacion\Personal\Biblioteca2nd\obj\Debug\net10.0\Biblioteca2nd.sourcelink.json
+C:\Users\santi\Desktop\Practicas_programacion\Personal\Biblioteca2nd\obj\Debug\net10.0\Biblioteca2nd.dll
+C:\Users\santi\Desktop\Practicas_programacion\Personal\Biblioteca2nd\obj\Debug\net10.0\refint\Biblioteca2nd.dll
+C:\Users\santi\Desktop\Practicas_programacion\Personal\Biblioteca2nd\obj\Debug\net10.0\Biblioteca2nd.pdb
+C:\Users\santi\Desktop\Practicas_programacion\Personal\Biblioteca2nd\obj\Debug\net10.0\Biblioteca2nd.genruntimeconfig.cache
+C:\Users\santi\Desktop\Practicas_programacion\Personal\Biblioteca2nd\obj\Debug\net10.0\ref\Biblioteca2nd.dll
+C:\Users\santi\Desktop\Practicas_programacion\Ejercicios practicos del trabajo\Ejercicios C# POO\Biblioteca2nd\bin\Debug\net10.0\Biblioteca2nd.exe
+C:\Users\santi\Desktop\Practicas_programacion\Ejercicios practicos del trabajo\Ejercicios C# POO\Biblioteca2nd\bin\Debug\net10.0\Biblioteca2nd.deps.json
+C:\Users\santi\Desktop\Practicas_programacion\Ejercicios practicos del trabajo\Ejercicios C# POO\Biblioteca2nd\bin\Debug\net10.0\Biblioteca2nd.runtimeconfig.json
+C:\Users\santi\Desktop\Practicas_programacion\Ejercicios practicos del trabajo\Ejercicios C# POO\Biblioteca2nd\bin\Debug\net10.0\Biblioteca2nd.dll
+C:\Users\santi\Desktop\Practicas_programacion\Ejercicios practicos del trabajo\Ejercicios C# POO\Biblioteca2nd\bin\Debug\net10.0\Biblioteca2nd.pdb
+C:\Users\santi\Desktop\Practicas_programacion\Ejercicios practicos del trabajo\Ejercicios C# POO\Biblioteca2nd\obj\Debug\net10.0\Biblioteca2nd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\Desktop\Practicas_programacion\Ejercicios practicos del trabajo\Ejercicios C# POO\Biblioteca2nd\obj\Debug\net10.0\Biblioteca2nd.AssemblyInfoInputs.cache
+C:\Users\santi\Desktop\Practicas_programacion\Ejercicios practicos del trabajo\Ejercicios C# POO\Biblioteca2nd\obj\Debug\net10.0\Biblioteca2nd.AssemblyInfo.cs
+C:\Users\santi\Desktop\Practicas_programacion\Ejercicios practicos del trabajo\Ejercicios C# POO\Biblioteca2nd\obj\Debug\net10.0\Biblioteca2nd.csproj.CoreCompileInputs.cache
+C:\Users\santi\Desktop\Practicas_programacion\Ejercicios practicos del trabajo\Ejercicios C# POO\Biblioteca2nd\obj\Debug\net10.0\Biblioteca2nd.sourcelink.json
+C:\Users\santi\Desktop\Practicas_programacion\Ejercicios practicos del trabajo\Ejercicios C# POO\Biblioteca2nd\obj\Debug\net10.0\Biblioteca2nd.dll
+C:\Users\santi\Desktop\Practicas_programacion\Ejercicios practicos del trabajo\Ejercicios C# POO\Biblioteca2nd\obj\Debug\net10.0\refint\Biblioteca2nd.dll
+C:\Users\santi\Desktop\Practicas_programacion\Ejercicios practicos del trabajo\Ejercicios C# POO\Biblioteca2nd\obj\Debug\net10.0\Biblioteca2nd.pdb
+C:\Users\santi\Desktop\Practicas_programacion\Ejercicios practicos del trabajo\Ejercicios C# POO\Biblioteca2nd\obj\Debug\net10.0\Biblioteca2nd.genruntimeconfig.cache
+C:\Users\santi\Desktop\Practicas_programacion\Ejercicios practicos del trabajo\Ejercicios C# POO\Biblioteca2nd\obj\Debug\net10.0\ref\Biblioteca2nd.dll
