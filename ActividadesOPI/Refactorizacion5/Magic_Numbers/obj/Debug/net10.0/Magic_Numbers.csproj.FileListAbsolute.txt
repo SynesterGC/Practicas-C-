@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\Practicas de programacion\PracticasTrabajo\Refactorizacion5\Magic_Numbers\bin\Debug\net10.0\Magic_Numbers.exe
+C:\Users\Usuario\Desktop\Practicas de programacion\PracticasTrabajo\Refactorizacion5\Magic_Numbers\bin\Debug\net10.0\Magic_Numbers.deps.json
+C:\Users\Usuario\Desktop\Practicas de programacion\PracticasTrabajo\Refactorizacion5\Magic_Numbers\bin\Debug\net10.0\Magic_Numbers.runtimeconfig.json
+C:\Users\Usuario\Desktop\Practicas de programacion\PracticasTrabajo\Refactorizacion5\Magic_Numbers\bin\Debug\net10.0\Magic_Numbers.dll
+C:\Users\Usuario\Desktop\Practicas de programacion\PracticasTrabajo\Refactorizacion5\Magic_Numbers\bin\Debug\net10.0\Magic_Numbers.pdb
+C:\Users\Usuario\Desktop\Practicas de programacion\PracticasTrabajo\Refactorizacion5\Magic_Numbers\obj\Debug\net10.0\Magic_Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Practicas de programacion\PracticasTrabajo\Refactorizacion5\Magic_Numbers\obj\Debug\net10.0\Magic_Numbers.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Practicas de programacion\PracticasTrabajo\Refactorizacion5\Magic_Numbers\obj\Debug\net10.0\Magic_Numbers.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Practicas de programacion\PracticasTrabajo\Refactorizacion5\Magic_Numbers\obj\Debug\net10.0\Magic_Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Practicas de programacion\PracticasTrabajo\Refactorizacion5\Magic_Numbers\obj\Debug\net10.0\Magic_Numbers.dll
+C:\Users\Usuario\Desktop\Practicas de programacion\PracticasTrabajo\Refactorizacion5\Magic_Numbers\obj\Debug\net10.0\refint\Magic_Numbers.dll
+C:\Users\Usuario\Desktop\Practicas de programacion\PracticasTrabajo\Refactorizacion5\Magic_Numbers\obj\Debug\net10.0\Magic_Numbers.pdb
+C:\Users\Usuario\Desktop\Practicas de programacion\PracticasTrabajo\Refactorizacion5\Magic_Numbers\obj\Debug\net10.0\Magic_Numbers.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Practicas de programacion\PracticasTrabajo\Refactorizacion5\Magic_Numbers\obj\Debug\net10.0\ref\Magic_Numbers.dll

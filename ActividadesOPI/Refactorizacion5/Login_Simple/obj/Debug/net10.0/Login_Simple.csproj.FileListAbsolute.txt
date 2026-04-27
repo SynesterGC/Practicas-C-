@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\Practicas de programacion\PracticasTrabajo\Refactorizacion5\Login_Simple\obj\Debug\net10.0\Login_Simple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Practicas de programacion\PracticasTrabajo\Refactorizacion5\Login_Simple\obj\Debug\net10.0\Login_Simple.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Practicas de programacion\PracticasTrabajo\Refactorizacion5\Login_Simple\obj\Debug\net10.0\Login_Simple.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Practicas de programacion\PracticasTrabajo\Refactorizacion5\Login_Simple\obj\Debug\net10.0\Login_Simple.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Practicas de programacion\PracticasTrabajo\Refactorizacion5\Login_Simple\bin\Debug\net10.0\Login_Simple.exe
+C:\Users\Usuario\Desktop\Practicas de programacion\PracticasTrabajo\Refactorizacion5\Login_Simple\bin\Debug\net10.0\Login_Simple.deps.json
+C:\Users\Usuario\Desktop\Practicas de programacion\PracticasTrabajo\Refactorizacion5\Login_Simple\bin\Debug\net10.0\Login_Simple.runtimeconfig.json
+C:\Users\Usuario\Desktop\Practicas de programacion\PracticasTrabajo\Refactorizacion5\Login_Simple\bin\Debug\net10.0\Login_Simple.dll
+C:\Users\Usuario\Desktop\Practicas de programacion\PracticasTrabajo\Refactorizacion5\Login_Simple\bin\Debug\net10.0\Login_Simple.pdb
+C:\Users\Usuario\Desktop\Practicas de programacion\PracticasTrabajo\Refactorizacion5\Login_Simple\obj\Debug\net10.0\Login_Simple.dll
+C:\Users\Usuario\Desktop\Practicas de programacion\PracticasTrabajo\Refactorizacion5\Login_Simple\obj\Debug\net10.0\refint\Login_Simple.dll
+C:\Users\Usuario\Desktop\Practicas de programacion\PracticasTrabajo\Refactorizacion5\Login_Simple\obj\Debug\net10.0\Login_Simple.pdb
+C:\Users\Usuario\Desktop\Practicas de programacion\PracticasTrabajo\Refactorizacion5\Login_Simple\obj\Debug\net10.0\Login_Simple.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Practicas de programacion\PracticasTrabajo\Refactorizacion5\Login_Simple\obj\Debug\net10.0\ref\Login_Simple.dll

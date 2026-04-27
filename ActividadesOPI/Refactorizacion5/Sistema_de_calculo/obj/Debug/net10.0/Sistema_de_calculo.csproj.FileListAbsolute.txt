@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\Practicas de programacion\PracticasTrabajo\Refactorizacion5\Sistema_de_calculo\bin\Debug\net10.0\Sistema_de_calculo.exe
+C:\Users\Usuario\Desktop\Practicas de programacion\PracticasTrabajo\Refactorizacion5\Sistema_de_calculo\bin\Debug\net10.0\Sistema_de_calculo.deps.json
+C:\Users\Usuario\Desktop\Practicas de programacion\PracticasTrabajo\Refactorizacion5\Sistema_de_calculo\bin\Debug\net10.0\Sistema_de_calculo.runtimeconfig.json
+C:\Users\Usuario\Desktop\Practicas de programacion\PracticasTrabajo\Refactorizacion5\Sistema_de_calculo\bin\Debug\net10.0\Sistema_de_calculo.dll
+C:\Users\Usuario\Desktop\Practicas de programacion\PracticasTrabajo\Refactorizacion5\Sistema_de_calculo\bin\Debug\net10.0\Sistema_de_calculo.pdb
+C:\Users\Usuario\Desktop\Practicas de programacion\PracticasTrabajo\Refactorizacion5\Sistema_de_calculo\obj\Debug\net10.0\Sistema_de_calculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Practicas de programacion\PracticasTrabajo\Refactorizacion5\Sistema_de_calculo\obj\Debug\net10.0\Sistema_de_calculo.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Practicas de programacion\PracticasTrabajo\Refactorizacion5\Sistema_de_calculo\obj\Debug\net10.0\Sistema_de_calculo.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Practicas de programacion\PracticasTrabajo\Refactorizacion5\Sistema_de_calculo\obj\Debug\net10.0\Sistema_de_calculo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Practicas de programacion\PracticasTrabajo\Refactorizacion5\Sistema_de_calculo\obj\Debug\net10.0\Sistema_de_calculo.dll
+C:\Users\Usuario\Desktop\Practicas de programacion\PracticasTrabajo\Refactorizacion5\Sistema_de_calculo\obj\Debug\net10.0\refint\Sistema_de_calculo.dll
+C:\Users\Usuario\Desktop\Practicas de programacion\PracticasTrabajo\Refactorizacion5\Sistema_de_calculo\obj\Debug\net10.0\Sistema_de_calculo.pdb
+C:\Users\Usuario\Desktop\Practicas de programacion\PracticasTrabajo\Refactorizacion5\Sistema_de_calculo\obj\Debug\net10.0\Sistema_de_calculo.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Practicas de programacion\PracticasTrabajo\Refactorizacion5\Sistema_de_calculo\obj\Debug\net10.0\ref\Sistema_de_calculo.dll

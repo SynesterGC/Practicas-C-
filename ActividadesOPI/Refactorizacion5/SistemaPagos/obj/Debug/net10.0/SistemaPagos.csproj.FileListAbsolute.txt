@@ -1,0 +1,28 @@
+C:\Users\Usuario\Desktop\Practicas de programacion\Migracion ficheros\SistemaPagos\obj\Debug\net10.0\SistemaPagos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Practicas de programacion\Migracion ficheros\SistemaPagos\obj\Debug\net10.0\SistemaPagos.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Practicas de programacion\Migracion ficheros\SistemaPagos\obj\Debug\net10.0\SistemaPagos.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Practicas de programacion\Migracion ficheros\SistemaPagos\obj\Debug\net10.0\SistemaPagos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Practicas de programacion\Migracion ficheros\SistemaPagos\bin\Debug\net10.0\SistemaPagos.exe
+C:\Users\Usuario\Desktop\Practicas de programacion\Migracion ficheros\SistemaPagos\bin\Debug\net10.0\SistemaPagos.deps.json
+C:\Users\Usuario\Desktop\Practicas de programacion\Migracion ficheros\SistemaPagos\bin\Debug\net10.0\SistemaPagos.runtimeconfig.json
+C:\Users\Usuario\Desktop\Practicas de programacion\Migracion ficheros\SistemaPagos\bin\Debug\net10.0\SistemaPagos.dll
+C:\Users\Usuario\Desktop\Practicas de programacion\Migracion ficheros\SistemaPagos\bin\Debug\net10.0\SistemaPagos.pdb
+C:\Users\Usuario\Desktop\Practicas de programacion\Migracion ficheros\SistemaPagos\obj\Debug\net10.0\SistemaPagos.dll
+C:\Users\Usuario\Desktop\Practicas de programacion\Migracion ficheros\SistemaPagos\obj\Debug\net10.0\refint\SistemaPagos.dll
+C:\Users\Usuario\Desktop\Practicas de programacion\Migracion ficheros\SistemaPagos\obj\Debug\net10.0\SistemaPagos.pdb
+C:\Users\Usuario\Desktop\Practicas de programacion\Migracion ficheros\SistemaPagos\obj\Debug\net10.0\SistemaPagos.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Practicas de programacion\Migracion ficheros\SistemaPagos\obj\Debug\net10.0\ref\SistemaPagos.dll
+C:\Users\Usuario\Desktop\Practicas de programacion\MigracionFicheros\SistemaPagos\bin\Debug\net10.0\SistemaPagos.exe
+C:\Users\Usuario\Desktop\Practicas de programacion\MigracionFicheros\SistemaPagos\bin\Debug\net10.0\SistemaPagos.deps.json
+C:\Users\Usuario\Desktop\Practicas de programacion\MigracionFicheros\SistemaPagos\bin\Debug\net10.0\SistemaPagos.runtimeconfig.json
+C:\Users\Usuario\Desktop\Practicas de programacion\MigracionFicheros\SistemaPagos\bin\Debug\net10.0\SistemaPagos.dll
+C:\Users\Usuario\Desktop\Practicas de programacion\MigracionFicheros\SistemaPagos\bin\Debug\net10.0\SistemaPagos.pdb
+C:\Users\Usuario\Desktop\Practicas de programacion\MigracionFicheros\SistemaPagos\obj\Debug\net10.0\SistemaPagos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Practicas de programacion\MigracionFicheros\SistemaPagos\obj\Debug\net10.0\SistemaPagos.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Practicas de programacion\MigracionFicheros\SistemaPagos\obj\Debug\net10.0\SistemaPagos.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Practicas de programacion\MigracionFicheros\SistemaPagos\obj\Debug\net10.0\SistemaPagos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Practicas de programacion\MigracionFicheros\SistemaPagos\obj\Debug\net10.0\SistemaPagos.dll
+C:\Users\Usuario\Desktop\Practicas de programacion\MigracionFicheros\SistemaPagos\obj\Debug\net10.0\refint\SistemaPagos.dll
+C:\Users\Usuario\Desktop\Practicas de programacion\MigracionFicheros\SistemaPagos\obj\Debug\net10.0\SistemaPagos.pdb
+C:\Users\Usuario\Desktop\Practicas de programacion\MigracionFicheros\SistemaPagos\obj\Debug\net10.0\SistemaPagos.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Practicas de programacion\MigracionFicheros\SistemaPagos\obj\Debug\net10.0\ref\SistemaPagos.dll
