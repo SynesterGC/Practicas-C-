@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Desktop\\Practicas de programacion\\MigracionFicheros\\SistemaPagos\\SistemaPagos.csproj": {}
+    "c:\\Users\\Usuario\\Desktop\\Practicas de programacion\\Practicas-C-\\ActividadesOPI\\Refactorizacion5\\SistemaPagos\\SistemaPagos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Desktop\\Practicas de programacion\\MigracionFicheros\\SistemaPagos\\SistemaPagos.csproj": {
+    "c:\\Users\\Usuario\\Desktop\\Practicas de programacion\\Practicas-C-\\ActividadesOPI\\Refactorizacion5\\SistemaPagos\\SistemaPagos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Practicas de programacion\\MigracionFicheros\\SistemaPagos\\SistemaPagos.csproj",
+        "projectUniqueName": "c:\\Users\\Usuario\\Desktop\\Practicas de programacion\\Practicas-C-\\ActividadesOPI\\Refactorizacion5\\SistemaPagos\\SistemaPagos.csproj",
         "projectName": "SistemaPagos",
-        "projectPath": "C:\\Users\\Usuario\\Desktop\\Practicas de programacion\\MigracionFicheros\\SistemaPagos\\SistemaPagos.csproj",
+        "projectPath": "c:\\Users\\Usuario\\Desktop\\Practicas de programacion\\Practicas-C-\\ActividadesOPI\\Refactorizacion5\\SistemaPagos\\SistemaPagos.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Desktop\\Practicas de programacion\\MigracionFicheros\\SistemaPagos\\obj\\",
+        "outputPath": "c:\\Users\\Usuario\\Desktop\\Practicas de programacion\\Practicas-C-\\ActividadesOPI\\Refactorizacion5\\SistemaPagos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

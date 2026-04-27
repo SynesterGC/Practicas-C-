@@ -2,9 +2,10 @@ using System;
 using System.Collections.Generic;
 using System.Reflection.Metadata;
 using System.Text;
-using SistemaPagos;
+using SistemaPagos.Models;
+using SistemaPagos.Interfaces;
 
-namespace SistemaPagos
+namespace SistemaPagos.Services
 {
     public class Store
     {

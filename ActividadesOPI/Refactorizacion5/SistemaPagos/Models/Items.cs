@@ -2,9 +2,8 @@ using System;
 using System.Collections.Generic;
 using System.Reflection.Metadata;
 using System.Text;
-using SistemaPagos;
 
-namespace SistemaPagos
+namespace SistemaPagos.Models
 {
     public class Items
     {

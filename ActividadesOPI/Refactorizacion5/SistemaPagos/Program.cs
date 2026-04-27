@@ -1,5 +1,8 @@
 ﻿using System;
 using SistemaPagos;
+using SistemaPagos.Models;
+using SistemaPagos.Interfaces;
+using SistemaPagos.Services;
 
 namespace SistemaPagos
 {
